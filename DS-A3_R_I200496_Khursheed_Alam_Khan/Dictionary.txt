@@ -1,0 +1,11 @@
+Cat: A four legged animal
+House: A building
+Earth: A planet
+Galaxy: A cosmos
+Blood: A red liquid
+Roast: A cooked meat
+Laptop: A portable computer
+Khursheed: A student of Software Engineering
+Venom: A letha poison that instantly kills the one affected
+Friend: A loyal being that supports you in hard times
+Ink: A liquid that helps in refilling a pen for resuability purposes
